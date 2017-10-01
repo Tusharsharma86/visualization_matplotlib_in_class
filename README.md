@@ -54,4 +54,6 @@ Check the Jupyter Notebook in the top right of the screen
 ## Project 
 In IPL teams representing Indian cities contend each year. Chris Gayle is the highest run scorer in IPL. Do you know who is the second highest run scorer (without using ‘for’ loop)? This module can help you determine the second highest run scorer by manipulating large data sets to extract business insights.
 
+By completing this project you have an opportunity to win 400 points
+
 *This project challenges you to manipulate large datasets without using conventional programming techniques to extract business insights.*
